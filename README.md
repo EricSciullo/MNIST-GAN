@@ -1,6 +1,6 @@
 # MNIST-GAN
 
-The below images of digits are generated using a GAN that creates a network using the <a href="http://yann.lecun.com/exdb/mnist/">MNIST</a> data set.
+The below images of digits are generated using an Auxiliary Classifier Generative Adversarial Network (AC-GAN) that creates a network using the <a href="http://yann.lecun.com/exdb/mnist/">MNIST</a> data set.
 
 <img src="images/fakes.png">
 
